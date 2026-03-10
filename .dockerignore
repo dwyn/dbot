@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Build artifacts
+_build
+deps
+
+# Dev/test
+.elixir_ls
+cover
+doc
+test
+
+# Fly
+fly.toml
+
+# Misc
+.DS_Store
+*.swp
+*.swo
